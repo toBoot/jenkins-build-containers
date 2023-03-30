@@ -4,6 +4,8 @@ Make sure the Docker socket is available to Jenkins. This might not be given if 
 
 This image can be used to build and deploy Docker containers with your Jenkins pipeline. It is configured as Docker-out-of-Docker. If you want more information about Docker-in-Docker vs. Docker-out-of-Docker you can look [here](http://tdongsi.github.io/blog/2017/04/23/docker-out-of-docker/).
 
+Based on the official [docker:cli](https://hub.docker.com/_/docker) image.
+
 | Key                       | Value                                                                    |
 | ------------------------- | ------------------------------------------------------------------------ |
 | User                      | `root`                                                                   |
