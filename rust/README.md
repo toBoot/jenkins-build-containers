@@ -1,4 +1,4 @@
-# Using image with Docker Agent Template
+# Using image with Docker agent template
 
 | Key                       | Value                     |
 | ------------------------- | ------------------------- |
